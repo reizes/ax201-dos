@@ -1,0 +1,14 @@
+#include <i86.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <conio.h>
+#include <math.h>
+#include <string.h>
+#include <dos.h>
+#include <io.h>
+#include <fcntl.h>
+#include "voice.h"
+#include "dmaIO.h"
+#include "dmaio.cpp"
+#include "voice4.cpp"
